@@ -1,5 +1,6 @@
 # Lab 5: Face Detection and K-Means Clustering
 
+## I have add the ouputs in the above 
 ## Aim
 The objective of this assignment is to implement face detection using OpenCV and perform K-Means clustering on the detected faces based on their color features (Hue and Saturation) in the HSV color space. Additionally, the project aims to classify a template image (a new face) into one of the generated clusters.
 
@@ -37,7 +38,7 @@ The common distance metrics include:
 - **Cosine Similarity / Distance**: Measures the cosine of the angle between two vectors; useful for high-dimensional text data.
 - **Hamming Distance**: Counts the number of positions at which the corresponding symbols are different; commonly used for categorical or binary data.
 - **Chebyshev Distance**: The maximum of the absolute differences between coordinates.
-- **Mahalanobis Distance**: Accounts for correlations between features and is scale-invariant.
+
 
 #### 2. What are some real-world applications of distance-based classification algorithms? 
 
