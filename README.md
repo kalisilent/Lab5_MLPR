@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lab 5: Face Detection and K-Means Clustering
 
 ## Aim
@@ -40,3 +41,6 @@ The objective of this assignment is to implement face detection using OpenCV and
 
 ## Report Report Questions
 The notebook includes detailed answers to the 5 report questions regarding distance metrics, real-world applications of distance-based algorithms, and the bias-variance tradeoff in KNN.
+=======
+# Lab5_MLPR
+>>>>>>> df6b3957a7c54c4386e7fc0b77e669274d638c9d
